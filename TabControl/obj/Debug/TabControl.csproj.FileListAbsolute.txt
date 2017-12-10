@@ -1,0 +1,12 @@
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\bin\Debug\TabControl.exe.config
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\bin\Debug\TabControl.exe
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\bin\Debug\TabControl.pdb
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\MainWindow.baml
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\MainWindow.g.cs
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\App.g.cs
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\TabControl_MarkupCompile.cache
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\TabControl.g.resources
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\TabControl.Properties.Resources.resources
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\TabControl.csproj.GenerateResource.Cache
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\TabControl.exe
+c:\Users\user\documents\visual studio 2013\Projects\XAML\TabControl\obj\Debug\TabControl.pdb

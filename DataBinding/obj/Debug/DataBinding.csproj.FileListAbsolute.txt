@@ -1,0 +1,12 @@
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\bin\Debug\DataBinding.exe.config
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\bin\Debug\DataBinding.exe
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\bin\Debug\DataBinding.pdb
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\MainWindow.baml
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\MainWindow.g.cs
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\App.g.cs
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\DataBinding.g.resources
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.Cache
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\DataBinding.exe
+c:\Users\user\documents\visual studio 2013\Projects\XAML\DataBinding\obj\Debug\DataBinding.pdb

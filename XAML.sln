@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAML", "XAML\XAML.csproj", "{69C1B060-4755-4568-95C9-17CC636E9C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controls", "controls\controls.csproj", "{22ED9508-C9A9-41EA-A511-1026942E9B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBinding", "DataBinding\DataBinding.csproj", "{2EF934AA-2245-45B1-9C56-23AA9E773E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindList", "DataBindList\DataBindList.csproj", "{30621C72-78B9-47F3-83EC-AFADB7A031FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{C440778A-78FE-42D9-AF28-BDD9D5458C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControl", "TabControl\TabControl.csproj", "{29DF2610-18A4-4AC8-8932-21EA8672434A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid\Grid.csproj", "{40FD8072-59CA-41E3-9E49-CAB6F2CA538C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C1B060-4755-4568-95C9-17CC636E9C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C1B060-4755-4568-95C9-17CC636E9C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C1B060-4755-4568-95C9-17CC636E9C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C1B060-4755-4568-95C9-17CC636E9C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ED9508-C9A9-41EA-A511-1026942E9B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ED9508-C9A9-41EA-A511-1026942E9B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ED9508-C9A9-41EA-A511-1026942E9B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ED9508-C9A9-41EA-A511-1026942E9B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF934AA-2245-45B1-9C56-23AA9E773E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF934AA-2245-45B1-9C56-23AA9E773E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF934AA-2245-45B1-9C56-23AA9E773E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF934AA-2245-45B1-9C56-23AA9E773E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30621C72-78B9-47F3-83EC-AFADB7A031FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30621C72-78B9-47F3-83EC-AFADB7A031FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30621C72-78B9-47F3-83EC-AFADB7A031FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30621C72-78B9-47F3-83EC-AFADB7A031FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C440778A-78FE-42D9-AF28-BDD9D5458C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C440778A-78FE-42D9-AF28-BDD9D5458C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C440778A-78FE-42D9-AF28-BDD9D5458C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C440778A-78FE-42D9-AF28-BDD9D5458C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DF2610-18A4-4AC8-8932-21EA8672434A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DF2610-18A4-4AC8-8932-21EA8672434A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DF2610-18A4-4AC8-8932-21EA8672434A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DF2610-18A4-4AC8-8932-21EA8672434A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FD8072-59CA-41E3-9E49-CAB6F2CA538C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FD8072-59CA-41E3-9E49-CAB6F2CA538C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FD8072-59CA-41E3-9E49-CAB6F2CA538C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FD8072-59CA-41E3-9E49-CAB6F2CA538C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
